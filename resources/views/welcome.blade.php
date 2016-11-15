@@ -7,7 +7,7 @@
         <title>Laravel 5.3 with VueJS</title>
     </head>
     <body>
-        <div class="container">
+        <div class="container" id="app">
             <tasks></tasks>
         </div>
         <script src="/js/app.js"></script>
